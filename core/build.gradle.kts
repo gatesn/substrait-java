@@ -79,7 +79,7 @@ dependencies {
   implementation("com.google.code.findbugs:jsr305:3.0.2")
 
   antlr("org.antlr:antlr4:4.9.2")
-  implementation("org.slf4j:slf4j-jdk14:1.7.30")
+  implementation("org.slf4j:slf4j-jdk14:1.7.36")
   implementation("org.antlr:antlr4:4.9.2")
   annotationProcessor("org.immutables:value:2.8.8")
   compileOnly("org.immutables:value-annotations:2.8.8")
