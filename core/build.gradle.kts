@@ -75,7 +75,7 @@ dependencies {
   implementation("com.fasterxml.jackson.core:jackson-databind:2.13.4")
   implementation("com.fasterxml.jackson.core:jackson-annotations:2.13.4")
   implementation("com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.13.4")
-  implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.13.4")
+  implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.16.1")
   implementation("com.google.code.findbugs:jsr305:3.0.2")
 
   antlr("org.antlr:antlr4:4.9.2")
