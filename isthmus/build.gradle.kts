@@ -81,7 +81,7 @@ dependencies {
   implementation("org.graalvm.sdk:graal-sdk:22.0.0.2")
   implementation("info.picocli:picocli:4.6.1")
   implementation("com.fasterxml.jackson.core:jackson-databind:2.13.4")
-  implementation("com.fasterxml.jackson.core:jackson-annotations:2.13.4")
+  implementation("com.fasterxml.jackson.core:jackson-annotations:2.17.1")
   implementation("com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.13.4")
   implementation("com.google.protobuf:protobuf-java-util:3.17.3") {
     exclude("com.google.guava", "guava")
