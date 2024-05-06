@@ -5,7 +5,7 @@ plugins {
   id("java")
   id("idea")
   id("com.palantir.graal") version "0.10.0"
-  id("com.diffplug.spotless") version "6.11.0"
+  id("com.diffplug.spotless") version "6.25.0"
   id("com.github.johnrengelman.shadow") version "7.1.2"
   signing
 }
