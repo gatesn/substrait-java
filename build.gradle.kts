@@ -8,7 +8,7 @@ plugins {
   id("idea")
   id("com.github.vlsi.gradle-extensions") version "1.90"
   id("com.diffplug.spotless") version "6.25.0"
-  id("io.github.gradle-nexus.publish-plugin") version "1.1.0"
+  id("io.github.gradle-nexus.publish-plugin") version "1.3.0"
 }
 
 repositories { mavenCentral() }
