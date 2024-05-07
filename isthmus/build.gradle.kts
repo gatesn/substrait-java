@@ -82,7 +82,7 @@ dependencies {
   implementation("info.picocli:picocli:4.6.1")
   implementation("com.fasterxml.jackson.core:jackson-databind:2.17.1")
   implementation("com.fasterxml.jackson.core:jackson-annotations:2.17.1")
-  implementation("com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.13.4")
+  implementation("com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.17.1")
   implementation("com.google.protobuf:protobuf-java-util:3.17.3") {
     exclude("com.google.guava", "guava")
       .because("Brings in Guava for Android, which we don't want (and breaks multimaps).")

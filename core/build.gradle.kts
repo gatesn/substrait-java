@@ -74,7 +74,7 @@ dependencies {
   implementation("com.google.protobuf:protobuf-java:3.17.3")
   implementation("com.fasterxml.jackson.core:jackson-databind:2.17.1")
   implementation("com.fasterxml.jackson.core:jackson-annotations:2.17.1")
-  implementation("com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.13.4")
+  implementation("com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.17.1")
   implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.17.1")
   implementation("com.google.code.findbugs:jsr305:3.0.2")
 
