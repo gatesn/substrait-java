@@ -78,9 +78,9 @@ dependencies {
   implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.17.1")
   implementation("com.google.code.findbugs:jsr305:3.0.2")
 
-  antlr("org.antlr:antlr4:4.9.2")
+  antlr("org.antlr:antlr4:4.13.1")
   implementation("org.slf4j:slf4j-jdk14:1.7.36")
-  implementation("org.antlr:antlr4:4.9.2")
+  implementation("org.antlr:antlr4:4.13.1")
   annotationProcessor("org.immutables:value:2.8.8")
   compileOnly("org.immutables:value-annotations:2.8.8")
   annotationProcessor("com.github.bsideup.jabel:jabel-javac-plugin:0.4.2")
