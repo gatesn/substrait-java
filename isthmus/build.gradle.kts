@@ -88,7 +88,7 @@ dependencies {
       .because("Brings in Guava for Android, which we don't want (and breaks multimaps).")
   }
   implementation("com.google.code.findbugs:jsr305:3.0.2")
-  implementation("com.github.ben-manes.caffeine:caffeine:3.0.4")
+  implementation("com.github.ben-manes.caffeine:caffeine:3.1.8")
   implementation("org.immutables:value-annotations:2.8.8")
   annotationProcessor("org.immutables:value:2.8.8")
   testImplementation("org.apache.calcite:calcite-plus:1.28.0")
