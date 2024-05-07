@@ -131,4 +131,4 @@ tasks.named<AntlrTask>("generateGrammarSource") {
   outputDirectory = File(buildDir, "generated/sources/antlr/main/java/io/substrait/type")
 }
 
-protobuf { protoc { artifact = "com.google.protobuf:protoc:3.17.3" } }
+protobuf { protoc { artifact = "com.google.protobuf:protoc:3.25.3" } }
