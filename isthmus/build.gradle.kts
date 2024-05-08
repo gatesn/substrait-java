@@ -79,7 +79,7 @@ dependencies {
   implementation("org.reflections:reflections:0.9.12")
   implementation("com.google.guava:guava:29.0-jre")
   implementation("org.graalvm.sdk:graal-sdk:22.0.0.2")
-  implementation("info.picocli:picocli:4.6.1")
+  implementation("info.picocli:picocli:4.7.6")
   implementation("com.fasterxml.jackson.core:jackson-databind:2.17.1")
   implementation("com.fasterxml.jackson.core:jackson-annotations:2.17.1")
   implementation("com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.17.1")
