@@ -20,7 +20,7 @@ dependencies {
   testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine")
   implementation("org.slf4j:slf4j-jdk14:1.7.36")
   annotationProcessor("org.immutables:value:2.8.8")
-  compileOnly("org.immutables:value-annotations:2.8.8")
+  compileOnly("org.immutables:value-annotations:2.10.1")
   annotationProcessor("com.github.bsideup.jabel:jabel-javac-plugin:0.4.2")
   compileOnly("com.github.bsideup.jabel:jabel-javac-plugin:0.4.2")
 }
