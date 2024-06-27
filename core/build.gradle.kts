@@ -68,8 +68,8 @@ signing {
 }
 
 dependencies {
-  testImplementation("org.junit.jupiter:junit-jupiter-api:5.6.0")
-  testImplementation("org.junit.jupiter:junit-jupiter-params:5.6.0")
+  testImplementation("org.junit.jupiter:junit-jupiter-api:5.10.3")
+  testImplementation("org.junit.jupiter:junit-jupiter-params:5.10.3")
   testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine")
   implementation("com.google.protobuf:protobuf-java:3.25.3")
   implementation("com.fasterxml.jackson.core:jackson-databind:2.17.1")
