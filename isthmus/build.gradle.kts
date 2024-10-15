@@ -74,7 +74,7 @@ java {
 dependencies {
   implementation(project(":core"))
   implementation("org.apache.calcite:calcite-core:1.30.0")
-  implementation("org.apache.calcite:calcite-server:1.28.0")
+  implementation("org.apache.calcite:calcite-server:1.38.0")
   implementation("org.junit.jupiter:junit-jupiter:5.7.0")
   implementation("org.reflections:reflections:0.9.12")
   implementation("com.google.guava:guava:29.0-jre")
