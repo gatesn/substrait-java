@@ -91,7 +91,7 @@ dependencies {
   implementation("com.github.ben-manes.caffeine:caffeine:3.1.8")
   implementation("org.immutables:value-annotations:2.8.8")
   annotationProcessor("org.immutables:value:2.8.8")
-  testImplementation("org.apache.calcite:calcite-plus:1.28.0")
+  testImplementation("org.apache.calcite:calcite-plus:1.38.0")
   annotationProcessor("com.github.bsideup.jabel:jabel-javac-plugin:0.4.2")
   compileOnly("com.github.bsideup.jabel:jabel-javac-plugin:0.4.2")
 }
